@@ -733,39 +733,67 @@ http://103.9.211.134:8080/OSN/mpegts
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="FIFA Women's World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/62.png", HTV Thể Thao Sv2
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.
 
-#-*--K+-*--#
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://logo.anttv.xyz/96.png",K+CINE HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SYmqWap5vVmqSapqlnnqmqp5aTpw%3D%3D&time=1690097232&mykplus?kcinehd
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd?maxrate=3000000
 
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://logo.anttv.xyz/97.png", K+LIFE HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SYmqWap5vVmqSapqlnnqmqp5aTpw%3D%3D&time=1690097232&mykplus?klifehd
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd?maxrate=3000000
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 group-title="DRM" tvg-logo="https://www.useetv.com/pimages/logo_spotv_big.png?v=1",SPOTV
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://logo.anttv.xyz/98.png",K+SPORT1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SYmqWap5vVmqSapqlnnqmqp5aTpw%3D%3D&time=1690097232&mykplus?ksport1hd
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd?maxrate=3000000
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 group-title="DRM" tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png?v=1",SPOTV2
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://logo.anttv.xyz/99.png", K+SPORT2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SYmqWap5vVmqSapqlnnqmqp5aTpw%3D%3D&time=1690097232&mykplus?ksport2hd
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd?maxrate=3000000
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.yurend.net/08.olahraga/eurosport.png" group-title="DRM",EUROSPORT 1
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-027/stream.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://logo.anttv.xyz/100.png", K+KIDS HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SYmqWap5vVmqSapqlnnqmqp5aTpw%3D%3D&time=1690097232&mykplus?kkidshd
-https://vngvnpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd?maxrate=3000000
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.yurend.net/08.olahraga/eurosport.png" group-title="DRM",EUROSPORT 2
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-028/stream.mpd
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="DRM", K+CINE HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/hf4k3zc675bcc1k/kpluscinekey.ico?dl=0  
+
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="klifehd" group-title="DRM" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/xsft6z0g7wshrqd/Kpluslifekey.ico?dl=0  
+
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="DRM", K+SPORT 1 HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/uy6h2s6fl3urfas/Kplussport1key.ico?dl=0  
+
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="DRM",K+SPORT 2 HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/5lx2ytzuhm1nwep/KplusSport2key.ico?dl=0  
+
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="DRM", K+KIDS HD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/2rr19l6e8fmdhpb/KplusKidskey.ico?dl=0 
+
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd#EXTM3U
