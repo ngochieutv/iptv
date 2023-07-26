@@ -1,0 +1,859 @@
+#EXTM3U url-tvg="https://epg.anttv.xyz"
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://logo.anttv.xyz/group/VTV.png" tvg-logo="https://logo.anttv.xyz/1.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/210/hd.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://logo.anttv.xyz/2.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/337/hd/dvr-${start}-${end}.m3u8", VTV2
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/377/hd.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://logo.anttv.xyz/3.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/211/hd.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://logo.anttv.xyz/4.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/378/hd/dvr-${start}-${end}.m3u8", VTV4
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/378/hd.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://logo.anttv.xyz/5.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/379/hd.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://logo.anttv.xyz/5.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 | 50Fps
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://logo.anttv.xyz/6.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/615/hd/dvr-${start}-${end}.m3u8", VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/vtv5-tay-nam-bo/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://logo.anttv.xyz/7.png" , VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/vtv5-tay-nguyen/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://logo.anttv.xyz/9.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/459/hd.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://logo.anttv.xyz/10.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV8
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/380/hd.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://logo.anttv.xyz/11.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8", VTV9
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/381/hd.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://logo.anttv.xyz/8.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/212/hd.m3u8
+#-*--VTVCAB-*--#
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" group-logo="https://logo.anttv.xyz/group/VTVcab.png" tvg-logo="https://logo.anttv.xyz/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8", VTVcab 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab1-vie-giai-tri-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/13.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab2-on-phim-viet/dvr-${start}-${offset}.m3u8", ON Phim Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab2-on-phim-viet/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab3-on-sports/dvr-${start}-${offset}.m3u8",  ON Sports HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab3-on-sports/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/14.png" ,  ON Sports HD | 50 Fps
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&onplus?s2-onsportshd
+#https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/manifest.mpd
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab3-on-sports/dvr-${start}-${offset}.m3u8", ON Movies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/435/hd.m3u8
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/16.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab3-on-sports/dvr-${start}-${offset}.m3u8", ON E Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab5-e-channel/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab6-on-sport-plus/dvr-${start}-${offset}.m3u8", ON Sports+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab6-on-sport-plus/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/17.png" , ON Sports+ | 50 Fps
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&onplus?s2-onsportsplus
+#https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/HAY_TV/manifest.mpd
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/18.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab7/dvr-${start}-${offset}.m3u8", ON O2TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab7/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/19.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab8-bibi/dvr-${start}-${offset}.m3u8", ON BiBi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/205/hd.m3u8
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/20.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab9-info-tv/dvr-${start}-${offset}.m3u8", ON Info TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab9-info-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/21.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab10-on-cine/dvr-${start}-${offset}.m3u8", ON Cine
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab10-on-cine/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab11hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/22.png",VTVcab 11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab11-vgs-shop/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/23.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab12-style-tv/dvr-${start}-${offset}.m3u8", ON Style TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab12-style-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvhyundaihomeshopping" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/24.png",VTVcab 13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab13-home-shopping/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvhyundaihomeshopping" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/25.png" ,VTVcab 14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab14-v-shopping/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab15/dvr-${start}-${offset}.m3u8", ON Music
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab15/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/27.png"catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab16-on-football/dvr-${start}-${offset}.m3u8", ON Football HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab16-on-football/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/27.png", ON Football HD | 50 Fps
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&onplus?s2-onfootball
+#https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/manifest.mpd
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/28.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab17-yeah1-tv/dvr-${start}-${offset}.m3u8", ON Trending TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/on-trending/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/29.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab18-on-sports-news/dvr-${start}-${offset}.m3u8", ON Sports News 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab18-on-sports-news/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/29.png" , ON Sports News | 50 Fps
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&onplus?s2-onsportsnews
+#https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_TINTUC_HD/manifest.mpd
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/30.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8", VTVcab 19
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/201/hd.m3u8
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/31.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab20-vfamily/dvr-${start}-${offset}.m3u8", ON VFamily
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/on-vfamily/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/32.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab21-cartoon-kid/dvr-${start}-${offset}.m3u8", ON Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab21-cartoon-kid/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/33.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab22-life-tv/dvr-${start}-${offset}.m3u8", ON Life
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab22-life-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/34.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab23-the-thao-golf/dvr-${start}-${offset}.m3u8", ON Golf 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vtvcab/vtvcab23-the-thao-golf/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/34.png" , ON Golf | 50 Fps
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&onplus?s2-onfootball
+#https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_GOLF_HD/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/tv360/2380/2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/35.png", Bóng đá Việt
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&onplus?s2-onvff
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVFFTV/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/36.png", Thể thao Việt
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&onplus?s2-onvolley
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVOLLEYBALL/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/37.png", ON Sports ENG
+https://liveh12.vtvcab.vn/hls/ONSPORTTA/04.m3u8
+#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/38.png", ON Football ENG
+https://liveh12.vtvcab.vn/hls/ONFOOTBALLTA/04.m3u8
+#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/39.png", ON Sports News ENG
+https://liveh12.vtvcab.vn/hls/ONSPORTNEWSTA/03.m3u8
+#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/40.png", ON Golf ENG
+https://liveh12.vtvcab.vn/hls/ONGOLFTA/03.m3u8
+
+
+
+
+#-*--VTC-*--#
+
+#EXTINF:-1 tvg-id="vtc1" group-title="VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/41.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc1-hd/${start}/${offset}.m3u8", VTC1 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://logo.anttv.xyz/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/tv360/196/0.m3u8
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/43.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc3-hd/${start}/${offset}.m3u8", VTC3 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://live-zlr1.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/44.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc4-yeah1-family-hd/${start}/${offset}.m3u8", VTC4 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/396/hd.m3u8
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/45.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc5-hd/${start}/${offset}.m3u8", VTC5 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/397/hd.m3u8
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/46.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://1117141481.vnns.net/VTC6/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/47.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc7-todaytv-hd/${start}/${offset}.m3u8.m3u8", VTC7 HD - TodayTV
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/398/hd.m3u8
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://logo.anttv.xyz/48.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc8/${start}/${offset}.m3u8", VTC8
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://1117141481.vnns.net/VTC8/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/49.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc9-hd/${start}/${offset}.m3u8", VTC9 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/399/hd.m3u8
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://logo.anttv.xyz/50.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/29/hd.m3u8
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://logo.anttv.xyz/51.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://1117141481.vnns.net/VTC11/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://logo.anttv.xyz/52.png", VTC12
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://1117141481.vnns.net/VTC12/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/184/hd.m3u8
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/54.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc14-hd/${start}/${offset}.m3u8", VTC14 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/32/hd.m3u8
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://logo.anttv.xyz/55.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc16-hd/${start}/${offset}.m3u8", VTC16 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/33/hd.m3u8
+
+#-*--HTV&HTVC-*--#
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" group-logo="https://logo.anttv.xyz/group/HTV.png" tvg-logo="https://logo.anttv.xyz/56.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/htv1/${start}/${offset}.m3u8",HTV1 HD
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/htv/2631/playlist.m3u8
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://logo.anttv.xyz/57.png" catchup="append" catchup-days="6" catchup-source="https://code.anttv.xyz/xemlai/hplus/htv2-hd-2669/${start}/${offset}.m3u8",HTV2 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://logo.anttv.xyz/58.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV3
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://logo.anttv.xyz/59.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/htv-key/${start}/${offset}",HTV Key HD
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/htv/2528/playlist.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://logo.anttv.xyz/60.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV7 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/128/hd.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://logo.anttv.xyz/61.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV9 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/190/hd.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://logo.anttv.xyz/62.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV Thể Thao
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/htv/4009/playlist.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://logo.anttv.xyz/62.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV Thể Thao | 50 Fps
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
+#EXTINF:-1 tvg-id="htvcoop" group-title="HTV" tvg-logo="https://logo.anttv.xyz/63.png",HTV CO.OP
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
+
+ 
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://logo.anttv.xyz/64.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vieon/htvc-thuan-viet-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://logo.anttv.xyz/66.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Gia đình HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://logo.anttv.xyz/67.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/htvc-phu-nu/${start}/${offset}",HTVC Phụ nữ HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://logo.anttv.xyz/68.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/htvc-du-lich-cuoc-song/${start}/${offset}",HTVC Du lịch Cuộc sống HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://logo.anttv.xyz/69.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/htvc-ca-nhac/${start}/${offset}",HTVC Ca nhạc HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://logo.anttv.xyz/70.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Phim HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://logo.anttv.xyz/71.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/htvc-plus/${start}/${offset}",HTVC Plus HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="https://logo.anttv.xyz/72.png",HTVC Homeshopping
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
+
+
+
+
+
+
+#-*--SCTV-*--#
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" group-logo="https://logo.anttv.xyz/group/SCTV.png" tvg-logo="https://logo.anttv.xyz/74.png",SCTV1 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/75.png",SCTV2 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/76.png",SCTV3 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/77.png",SCTV4 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://logo.anttv.xyz/78.png",SCTV5 HD - SCJ
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/79.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live-zlr1.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/80.png",SCTV7 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/81.png",SCTV8 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/82.png",SCTV9 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://logo.anttv.xyz/83.png",SCTV10
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/84.png",SCTV11 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/85.png",SCTV12 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/86.png",SCTV13 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/87.png",SCTV14 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/88.png",SCTV15 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/89.png",SCTV16 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/90.png",SCTV17 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/91.png",SCTV18 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/92.png",SCTV19 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/93.png",SCTV20 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/94.png",SCTV21 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/95.png",SCTV22 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/73.png",SCTV HD Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
+
+
+#-*--K+-*--#
+
+
+#-*--Thiết yếu-*--#
+#EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" group-logo="https://logo.anttv.xyz/group/ThietYeu.png" tvg-logo="https://logo.anttv.xyz/104.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết yếu" tvg-logo="https://logo.anttv.xyz/105.png", VNews
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vieon/vnews-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="nhandan" group-title="Thiết yếu" tvg-logo="https://logo.anttv.xyz/106.png", Nhân Dân TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vieon/nhan-dan-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" tvg-logo="https://logo.anttv.xyz/107.png", catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Hội HD
+http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://logo.anttv.xyz/108.png", catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết yếu" tvg-logo="https://logo.anttv.xyz/109.png", VOVTV HD
+http://103.90.220.236/vovlive/tv1live.m3u8
+
+
+#-*--Địa phương-*--#
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" group-logo="https://logo.anttv.xyz/group/DiaPhuong.png" tvg-logo="https://logo.anttv.xyz/192.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", THVL1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/193.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", THVL2 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+http://live-ali4.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/194.png" catchup="append" catchup-days="7" catchup-source="https://code.anttv.xyz/xemlai/thvli/thvl3/${start}/${offset}", THVL3 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+http://live-ali4.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/195.png" catchup="append" catchup-days="7" catchup-source="https://code.anttv.xyz/xemlai/thvli/thvl4/${start}/${offset}", THVL4 HD
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/429/hd.m3u8
+#EXTINF:-1 tvg-id="angiang" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/114.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/34/auto/dvr-${start}-${end}.m3u8", ATV | TH An Giang
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/34/hd.m3u8
+#EXTINF:-1 tvg-id="baria" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/115.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/tonghop/brt/dvr-${start}-${offset}.m3u8", BRT HD | TH Bà Rịa Vũng Tàu
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/116.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/183/auto/dvr-${start}-${end}.m3u8", BGTV HD | TH Bắc Giang
+http://103.90.220.236/bgtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/117.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/360/auto/dvr-${start}-${end}.m3u8", BTV HD | TH Bắc Ninh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/360/hd.m3u8
+#EXTINF:-1 tvg-id="baccan" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/118.png", TBK HD | TH Bắc Kạn
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/bac-kan/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="baclieu" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/119.png" catchup="append" catchup-days="2" catchup-source="https://tv.thbl.vn/replay/index.php/tv/${start}_${end}.m3u8", BLTV HD | TH Bạc Liêu
+https://tv.thbl.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-id="bentre" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/120.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/tonghop/thbt/dvr-${start}-${offset}.m3u8", THBT | TH Bến Tre
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/167/hd.m3u8
+#EXTINF:-1 tvg-id="binhdinh" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/121.png", BTV HD | TH Bình Định
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+#EXTINF:-1 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/122.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/402/auto/dvr-${start}-${end}.m3u8", BTV1 HD | TH Bình Dương
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/402/hd.m3u8
+#EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/123.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/38/auto/dvr-${start}-${end}.m3u8", BTV2 HD | TH Bình Dương
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/tv360/43/2.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/124.png", BTV3 HD | TH Bình Dương
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/binh-duong-3/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="binhduong4" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/125.png", BTV4 HD | TH Bình Dương
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/imovie-hd/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="binhduong6" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/127.png", BTV6 | TH Bình Dương
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/btv6/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/110.png", BTV9 - An Viên TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vieon/an-vien-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="binhduong11" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/128.png", BTV11 | TH Bình Dương
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/btv-11/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/129.png", BPTV1 HD | TH Bình Phước
+http://103.90.220.236/bptvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="hometvbptv2" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/130.png", BPTV2 HD | TH Bình Phước
+http://103.90.220.236/bptvlive/tv2live.m3u8
+#EXTINF:-1 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/131.png", BTV HD | TH Bình Thuận
+http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
+#EXTINF:-1 tvg-id="binhthuan6" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/132.png", BTV 6 HD | Quê Hương Homeshopping
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/133.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/123/auto/dvr-${start}-${end}.m3u8", CTV HD | TH Cà Mau
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vieon/ca-mau-1/playlist.m3u8
+#EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/134.png", THTPCT HD | TH Cần Thơ
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+#EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/135.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/141/auto/dvr-${start}-${end}.m3u8", CRTV HD | TH Cao Bằng
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/141/hd.m3u8
+#EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/136.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/90/auto/dvr-${start}-${end}.m3u8", DaNangTV1 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/137.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/60/auto/dvr-${start}-${end}.m3u8", DaNangTV2 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/138.png", DRT HD | TH Đắk Lắk
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/162/hd.m3u8
+#EXTINF:-1 tvg-id="daknong" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/139.png",catchup="append" catchup-days="2" catchup-source="https://16371223541843.vnns.net/daknong_abr/vtc130121/daknong-480p/playlist_dvr_range-${start}-${offset}.m3u8", PTD HD | TH Đắk Nông
+https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/chunklist_b3128000_sleng.m3u8
+#EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/140.png", ĐTV HD | TH Điện Biên
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/dien-bien/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/141.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/404/auto/dvr-${start}-${end}.m3u8", ĐNRTV1 HD | TH Đồng Nai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/404/hd.m3u8
+#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/142.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/95/auto/dvr-${start}-${end}.m3u8", ĐNRTV2 HD | TH Đồng Nai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/tv360/255/3.m3u8
+#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/143.png", ĐNRTV3 | TH Đồng Nai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vieon/dong-nai-3/playlist.m3u8
+#EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/144.png", THĐT1 HD | TH Đồng Tháp
+#EXTVLCOPT:http-user-agent=ANTmedia
+http://live.anttv.xyz/dongthap/index.m3u8
+#EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/145.png", THĐT2 | TH Đồng Tháp
+#EXTVLCOPT:http-user-agent=ANTmedia
+http://live.anttv.xyz/mientay/index.m3u8
+
+#EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/146.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/172/auto/dvr-${start}-${end}.m3u8", THGL HD | TH Gia Lai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vieon/gia-lai-1/playlist.m3u8
+#EXTINF:-1 tvg-id="hagiang" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/147.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/155/auto/dvr-${start}-${end}.m3u8", HGTV HD | TH Hà Giang
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/ha-giang/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hanam" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/148.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/40/auto/dvr-${start}-${end}.m3u8", THHN HD | TH Hà Nam
+http://103.90.220.236/thhnlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/149.png",catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV1 HD
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/400/hd.m3u8
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/150.png",catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV2 HD
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/401/hd.m3u8
+#EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/111.png", HCATV1 - HiTV
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/45/hd.m3u8
+#EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/112.png", HCATV2 - YouTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/tv360/31/0.m3u8
+#EXTINF:-1 tvg-id="antg" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/113.png", HCATV3 - An Ninh Thế Giới
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/tv360/21/2.m3u8
+#EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/151.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/405/auto/dvr-${start}-${end}.m3u8", HTTV HD | TH Hà Tĩnh
+http://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/405/hd.m3u8
+#EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/152.png", THD HD | TH Hải Dương
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/tv360/59/2.m3u8
+#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/153.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/407/auto/dvr-${start}-${end}.m3u8", THP HD | TH Hải Phòng
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/407/hd.m3u8
+#EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/154.png" catchup="append" catchup-days="2" catchup-source="https://live.thhp.vn/vod/index.m3u8?st=${start}000&et=${end}000&c=thpplus", THP+ HD | TH Hải Phòng
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/616/hd.m3u8
+#EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/155.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/181/auto/dvr-${start}-${end}.m3u8", HGTV HD | TH Hậu Giang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
+#EXTINF:-1 tvg-id="hoabinh" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/156.png", HBTV HD | TH Hòa Bình
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/159/hd.m3u8
+#EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/157.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/408/auto/dvr-${start}-${end}.m3u8", HY HD | TH Hưng Yên
+http://103.90.220.236/hytvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/158.png", KTV HD | TH Khánh Hòa
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/tv360/65/2.m3u8
+#EXTINF:-1 tvg-id="kiengiang" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/159.png" catchup="append" catchup-days="2" catchup-source="https://tv.kgtv.vn/replay/index2.php/kgtv/${start}_${end}.m3u8", KG HD | TH Kiên Giang
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 tvg-id="kiengiang1" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/160.png" catchup="append" catchup-days="2" catchup-source="https://tv.kgtv.vn/replay/index2.php/kgtv1/${start}_${end}.m3u8", KG1 HD | TH Kiên Giang
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-id="kontum" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/161.png" catchup="append" catchup-days="2" catchup-source="https://tv.kontumtv.vn/replay/index.php/kontumtv/${start}_${end}.m3u8", KRT HD | TH Kon Tum
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:-1 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/162.png", LTV HD | TH Lai Châu
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/lai-chau/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="lamdong" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/163.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/164/auto/dvr-${start}-${end}.m3u8", LTV HD | TH Lâm Đồng
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+#EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/164.png", LSTV HD | TH Lạng Sơn
+http://103.90.220.236/lstvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="laocai" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/165.png", THLC HD | TH Lào Cai
+http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+#EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/166.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/47/auto/dvr-${start}-${end}.m3u8", LA34 HD | TH Long An
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.90.220.236/la34/tvlive-transmux.m3u8
+#EXTINF:-1 tvg-id="namdinh" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/167.png", NTV | TH Nam Định
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/tv360/73/0.m3u8
+#EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/168.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/453/auto/dvr-${start}-${end}.m3u8", NTV HD | TH Nghệ An
+http://103.90.220.236/natvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/169.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/160/auto/dvr-${start}-${end}.m3u8", NTV HD | TH Ninh Bình
+http://103.90.220.236/nbtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="ninhthuan" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/170.png", NTV HD | TH Ninh Thuận
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
+#EXTINF:-1 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/171.png", PTV HD | TH Phú Thọ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/410/hd.m3u8
+#EXTINF:-1 tvg-id="phuyen" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/172.png", PTP HD | TH Phú Yên
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/phu-yen/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="quangbinh" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/173.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/120/auto/dvr-${start}-${end}.m3u8", QBTV | TH Quảng Bình
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/nethub/9359/1.m3u8
+#EXTINF:-1 tvg-id="quangnam" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/174.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/179/auto/dvr-${start}-${end}.m3u8", QRT | TH Quảng Nam
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/175.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/409/auto/dvr-${start}-${end}.m3u8", PTQ HD | TH Quảng Ngãi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/409/hd.m3u8
+#EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/176.png", QTV1 HD | TH Quảng Ninh
+http://103.90.220.236/qtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/177.png", QTV3 HD | TH Quảng Ninh
+http://103.90.220.236/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/178.png", QRTV HD | TH Quảng Trị
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.90.220.236/qrtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/179.png", STV1 HD | TH Sóc Trăng
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/52/hd.m3u8
+#EXTINF:-1 tvg-id="soctrang1" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/180.png", STV2 HD | TH Sóc Trăng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://live.anttv.xyz/stv2/index.m3u8
+#EXTINF:-1 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/181.png", STV HD | TH Sơn La
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://118.107.85.5:1935/live/smil:STV.smil/chunklist_w1744292611_b1384000.m3u8
+#EXTINF:-1 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/182.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/53/auto/dvr-${start}-${end}.m3u8", TTV11 HD | TH Tây Ninh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vieon/tay-ninh-3/playlist.m3u8
+#EXTINF:-1 tvg-id="thaibinh" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/183.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/122/auto/dvr-${start}-${end}.m3u8", TBTV HD | TH Thái Bình
+http://103.90.220.236/tbtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/184.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/406/auto/dvr-${start}-${end}.m3u8", TN1 HD | TH Thái Nguyên
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/406/hd.m3u8
+#EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/186.png", TTV HD | TH Thanh Hóa
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/477/hd.m3u8
+#EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/187.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/168/auto/dvr-${start}-${end}.m3u8", TRT | TH Thừa Thiên Huế
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/tv360/63/2.m3u8
+#EXTINF:-1 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/188.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/54/auto/dvr-${start}-${end}.m3u8", THTG HD | TH Tiền Giang
+http://123.25.238.45:1935/live/thtg/chunklist.m3u8
+#EXTINF:-1 tvg-id="travinh" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/189.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/175/auto/dvr-${start}-${end}.m3u8", THTV HD | TH Trà Vinh
+http://118.69.169.42:1935/THTV/travinhtv/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/190.png", THTV2 HD | TH Trà Vinh
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/vieon/tra-vinh-2/playlist.m3u8
+#EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/191.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/154/auto/dvr-${start}-${end}.m3u8", TTV HD | TH Tuyên Quang
+#EXTVLCOPT:http-user-agent=ANTmedia
+http://27.72.164.157:8080/hls/ttv.m3u8
+#EXTINF:-1 tvg-id="vinhphuc" group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/196.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/57/auto/dvr-${start}-${end}.m3u8", VP HD | TH Vĩnh Phúc
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://logo.anttv.xyz/197.png", YTV HD | TH Yên Bái
+https://yenbaitv.org.vn/hls/livestream.m3u8
+
+
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO" group-logo="https://logo.anttv.xyz/group/HBO.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&fptplay?hbo
+https://hbo-livecdn.fptplay.net/live_dzones/hbo_1080p/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbofamilyhd-asia" group-title="HBO" tvg-logo="https://img.vnmedia.xyz/logo/hbofamilyhd-asia.png", HBO Family HD
+
+
+#EXTINF:-1 tvg-id="hbohitshd-asia" group-title="HBO" tvg-logo="https://img.vnmedia.xyz/logo/hbohitshd-asia.png", HBO Hits HD
+
+
+#EXTINF:-1 tvg-id="hbosignaturehd-asia" group-title="HBO" tvg-logo="https://img.vnmedia.xyz/logo/hbosignaturehd-asia.png", HBO Signature
+
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&fptplay?cinemax
+https://hbo-livecdn.fptplay.net/live_dzones/max_1080p/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" group-logo="https://logo.anttv.xyz/group/InTheBox.png" tvg-logo="https://logo.anttv.xyz/200.png", Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/box-movie-1-hd/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://logo.anttv.xyz/201.png", Hollywood Classics
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/hollywood-classics-hd/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://logo.anttv.xyz/202.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/69/hd/dvr-${start}-${end}.m3u8", Music Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/music-box/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://logo.anttv.xyz/203.png", In The Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/in-the-box-channel/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://logo.anttv.xyz/204.png", Box Hits
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/box-hits/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://logo.anttv.xyz/205.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/man/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://logo.anttv.xyz/206.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/cliptv/drfit/dvr-${start}-${offset}.m3u8", Dr.Fit
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/drfit-hd/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://logo.anttv.xyz/207.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/cliptv/happykids/dvr-${start}-${offset}.m3u8", Happy Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/happy-kids-hd/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://logo.anttv.xyz/208.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/cliptv/planetearth/dvr-${start}-${offset}.m3u8", Planet Earth
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/planet-earth-hd/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://logo.anttv.xyz/209.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/cliptv/woman/dvr-${start}-${offset}.m3u8", Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/cliptv/woman-hd/chunklist_b5128000.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Hoạt hình" group-logo="https://logo.anttv.xyz/group/ThieuNhi.png" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus
+http://live.vthanhtivi.pw/aniplus
+#EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&mytv_msky?469
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
+#EXTINF:-1 tvg-id="boomerang" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&mytv_msky?467
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&mytv_msky?592
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="dreamworks" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&cliptv?dreamworks
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cbeebies" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png",BBC Cbeebies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&mytv_msky?525
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+#EXTINF:-1 tvg-id="babytvhd" group-title="Hoạt hình" tvg-logo="https://logo.anttv.xyz/215.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BabyTV HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="axnhd" group-title="Giải trí" group-logo="https://logo.anttv.xyz/group/GiaiTri.png" tvg-logo="https://logo.anttv.xyz/241.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&mytv_msky?590
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="blueantent" group-title="Giải trí" tvg-logo="https://logo.anttv.xyz/242.png", Rock Entertainment
+#EXTVLCOPT:http-user-agent=ANTmedia
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-id="blueantext" group-title="Giải trí" tvg-logo="https://logo.anttv.xyz/243.png", Rock Action
+#EXTVLCOPT:http-user-agent=ANTmedia
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Giải trí" tvg-logo="https://logo.anttv.xyz/245.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&mytv_msky?523
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#EXTINF:-1 tvg-id="fashionhd" group-title="Giải trí" tvg-logo="https://logo.anttv.xyz/246.png", Fashion TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&mytv_msky?595
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+#EXTINF:-1 tvg-id="hits" group-title="Giải trí" tvg-logo="https://logo.anttv.xyz/247.png", HITS
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/mytv/515/hd.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="Giải trí" tvg-logo="https://logo.anttv.xyz/248.png", HGTV
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/tv360/99/2.m3u8
+#EXTINF:-1 tvg-id="kix" group-title="Giải trí" tvg-logo="https://logo.anttv.xyz/249.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://api.anttv.xyz/getplay/$1$L3WayUYQ$0SyTQ56Oo3qXQCbaMIXaP1/fptplay/kix/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="Giải trí" tvg-logo="https://logo.anttv.xyz/250.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&mytv_msky?596
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="https://logo.anttv.xyz/251.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&mytv_msky?597
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Khám phá" tvg-logo="https://logo.anttv.xyz/lovenature.png", Love Nature 4K
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.anttv.xyz/255.png" group-title="Giải trí",Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
+
+
+#EXTINF:-1 tvg-id="" group-title="Giải trí" tvg-logo="https://img.tvb.com/homepage/TVB_homepage.png" , TVB Vietnam
+#EXTVLCOPT:http-user-agent=ANTmedia
+http://vnoo.net/link/rX6Cri7
+
+#EXTINF:-1 tvg-id="" group-title="Giải trí" tvg-logo="https://logo.anttv.xyz/celestialmovies.png", Celestial Moviesie
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://tinyurl.com/CELESTIAL-MOVIESIE
+#EXTINF:-1 tvg-id="" group-title="Giải trí" tvg-logo="https://logo.anttv.xyz/ccmmovies.png", CCM Movies
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://tinyurl.com/CCM-MOVIES	
+
+
+
+#EXTINF:-1 group-title="Sport" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
+http://stream.cvmtv.site/ZiggoS?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport Voetbal
+http://stream.cvmtv.site/ZiggoV?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="ztennis" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tennis.png",Ziggo Sport Tennis
+#http://stream.cvmtv.site/ZiggoT?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="zgolf" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/golf.png",Ziggo Sport Golf
+http://stream.cvmtv.site/ZiggoG?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="zracing" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/racing.png",Ziggo Sport Racing
+#http://stream.cvmtv.site/ZiggoR?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="zdocu" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/docu.png",Ziggo Sport Docu
+#http://stream.cvmtv.site/ZiggoD?token=live
+
+#EXTINF:-1 group-title="Sport" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
+http://stream.cvmtv.site/canal1?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
+http://stream.cvmtv.site/canal2?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
+http://stream.cvmtv.site/canalpre?token=live
+
+#EXTINF:-1 group-title="Sport" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
+http://stream.cvmtv.site/E1?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
+http://stream.cvmtv.site/E2?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
+http://stream.cvmtv.site/E3?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
+http://stream.cvmtv.site/E4?token=live
+
+#EXTINF:-1 group-title="Sport" tvg-id="sptv1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-1.png",Sport TV 1
+http://stream.cvmtv.site/SportTV1?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="sptv2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-2.png",Sport TV 2
+http://stream.cvmtv.site/SportTV2?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="sptv3" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-3.png",Sport TV 3
+http://stream.cvmtv.site/SportTV3?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="sptv4" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-4.png",Sport TV 4
+http://stream.cvmtv.site/SportTV4?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="sptv5" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-5.png",Sport TV 5
+http://stream.cvmtv.site/SportTV5?token=live
+
+#EXTINF:-1 group-title="Sport" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
+http://stream.cvmtv.site/Match?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
+http://stream.cvmtv.site/MF1?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
+http://stream.cvmtv.site/MF2?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
+http://stream.cvmtv.site/MF3?token=live
+
+#EXTINF:-1 group-title="Sport" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+http://stream.cvmtv.site/Polsat?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
+http://stream.cvmtv.site/PolsatE?token=live
+#EXTINF:-1 group-title="Sport" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
+http://stream.cvmtv.site/PolsatN?token=live
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/768px-Polsat_Sport_Premium_1_2021_gradient.svg.png",Polsat Sport Premium 1
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polsat_Sport_Premium_2_2021_gradient.svg/768px-Polsat_Sport_Premium_2_2021_gradient.svg.png",Polsat Sport Premium 2
+
+#EXTINF:-1 group-title="Sport" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
+http://stream.cvmtv.site/TVPS?token=live
+
+
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="Sport", K+CINE HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/hf4k3zc675bcc1k/kpluscinekey.ico?dl=0  
+
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="klifehd" group-title="Sport" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/xsft6z0g7wshrqd/Kpluslifekey.ico?dl=0  
+
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="Sport", K+SPORT 1 HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/uy6h2s6fl3urfas/Kplussport1key.ico?dl=0  
+
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Sport",K+SPORT 2 HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/5lx2ytzuhm1nwep/KplusSport2key.ico?dl=0  
+
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="Sport", K+KIDS HD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/2rr19l6e8fmdhpb/KplusKidskey.ico?dl=0 
+
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd#EXTM3U
+
+
+#EXTINF:-1 tvg-id="quochoi" group-title="FIFA Women's World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD
+http://live.anttv.xyz/antmedia/quochoi
+#EXTINF:-1 tvg-id="quochoi" group-title="FIFA Women's World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD Sv2
+http://128.199.214.24/QHTV/mpegts
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="FIFA Women's World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/27.png", ON Football HD 
+http://live.anttv.xyz/antmedia/onfootball
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="FIFA Women's World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/29.png", ON Sports News HD 
+http://128.199.214.24/OSN/mpegts
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="FIFA Women's World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/62.png", HTV Thể Thao Sv2
+https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
