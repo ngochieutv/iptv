@@ -714,9 +714,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaOYq53VmqSapqlnnqmqp5aTpw%3D%3D&time=1690345074&mytv_msky?597
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Khám phá" tvg-logo="https://logo.anttv.xyz/lovenature.png", Love Nature 4K
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.anttv.xyz/255.png" group-title="Giải trí",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -847,13 +844,13 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd#EXTM3U
 
 
-#EXTINF:-1 tvg-id="quochoi" group-title="FIFA Women's World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD
+#EXTINF:-1 tvg-id="quochoi" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD
 http://live.anttv.xyz/antmedia/quochoi
-#EXTINF:-1 tvg-id="quochoi" group-title="FIFA Women's World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD Sv2
+#EXTINF:-1 tvg-id="quochoi" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD Sv2
 http://128.199.214.24/QHTV/mpegts
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="FIFA Women's World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/27.png", ON Football HD 
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/27.png", ON Football HD 
 http://live.anttv.xyz/antmedia/onfootball
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="FIFA Women's World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/29.png", ON Sports News HD 
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/29.png", ON Sports News HD 
 http://128.199.214.24/OSN/mpegts
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="FIFA Women's World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/62.png", HTV Thể Thao Sv2
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/62.png", HTV Thể Thao Sv2
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
