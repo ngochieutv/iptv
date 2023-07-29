@@ -854,20 +854,11 @@ http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png", Sky Sports F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=60
-https://webudit.cdnhks.lol/lb/premium60/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png", Sky Sports Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=36
 https://webudit.cdnhks.lol/lb/premium36/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sport Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=38
-https://webudit.cdnhks.lol/lb/premium38/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png", Arena 1 Premium
@@ -939,16 +930,8 @@ http://stream.cvmtv.site/Trans7?token=live
 http://stream.cvmtv.site/One31?token=live
 
 
-
-
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/768px-ESPN_wordmark.svg.png",ESPN US
-http://stream.cvmtv.site/ESPN_US?token=live
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/768px-ESPN2_logo.svg.png",ESPN2 US
-http://stream.cvmtv.site/ESPN2_US?token=live
 #EXTINF:-1 group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
 http://stream.cvmtv.site/FS1?token=live
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
-http://stream.cvmtv.site/FS2?token=live
 
 
 
