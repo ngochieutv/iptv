@@ -819,6 +819,117 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd#EXTM3U
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 group-title="Thể thao" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg",MNC Sports 1
+https://newanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 group-title="Thể thao" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",MNC Sports 2
+https://newanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.yurend.net/08.olahraga/eurosport.png" group-title="Thể thao",EUROSPORT 1
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-027/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.yurend.net/08.olahraga/eurosport.png" group-title="Thể thao",EUROSPORT 2
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-028/stream.mpd
+
+#EXTINF:-1 group-title="Thể thao", CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=
+#EXTINF:-1 group-title="Thể thao", CCTV5+
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=
+#EXTINF:-1 group-title="Thể thao", ESPN MX
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 group-title="Thể thao", ESPN2 MX
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png", Sky Sports Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=36
+https://webudit.cdnhks.lol/lb/premium36/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png", Arena 1 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=134
+https://webudit.cdnhks.lol/lb/premium134/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png", Arena 2 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=135
+https://webudit.cdnhks.lol/lb/premium135/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png", Arena 3 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=139
+https://webudit.cdnhks.lol/lb/premium139/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/2v005r1643205531.png", Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=429
+https://webudit.cdnhks.lol/lb/premium429/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_SI_logo.png", Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=430
+https://webudit.cdnhks.lol/lb/premium430/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_SI_logo.png", Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=139
+https://webudit.cdnhks.lol/lb/premium139/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2dFqUoXCqCY2s3eCCJCTDGff1n2niYJO-w&usqp=CAU" group-title="Thể thao",Arena Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=432
+https://webudit.cdnhks.lol/lb/premium432/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://media.info/i/lf/0/1647384977/1539.png", BT Sport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=31
+https://webudit.cdnhks.lol/lb/premium31/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png", BT Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=32
+https://webudit.cdnhks.lol/lb/premium32/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://thelogofinder.com/wp-content/uploads/edd/2021/11/BT-Sport-3-HD-Dark.svg", BT Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=33
+https://webudit.cdnhks.lol/lb/premium33/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png", BT Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=34
+https://webudit.cdnhks.lol/lb/premium34/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg", USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=343
+https://webudit.cdnhks.lol/lb/premium343/index.m3u8
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="trans7" tvg-logo="https://static.wikia.nocookie.net/indotv/images/4/46/Trans_7_2013.png",FRIENDLY TOUR - TRANS7
+http://stream.cvmtv.site/Trans7?token=live
+#EXTINF:-1 group-title="Thể thao" tvg-id="one31" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",SEA VLEAGUE - One31
+http://stream.cvmtv.site/One31?token=live
+
+
+#EXTINF:-1 group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
+http://stream.cvmtv.site/FS1?token=live
+
+
+
 #EXTINF:-1 tvg-id="quochoi" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD
 http://live.anttv.xyz/antmedia/quochoi
 #EXTINF:-1 tvg-id="quochoi" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD Sv2
