@@ -827,7 +827,7 @@ http://stream.cvmtv.site/TVPS?token=live
 
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="Sport", K+CINE HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="⚽️|Sport", K+CINE HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -835,7 +835,7 @@ http://stream.cvmtv.site/TVPS?token=live
 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="Sport" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life HD
+#EXTINF:-1 tvg-id="klifehd" group-title="⚽️|Sport" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -843,7 +843,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="Sport", K+SPORT 1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="⚽️|Sport", K+SPORT 1 HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -851,7 +851,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="Sport",K+SPORT 2 HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="⚽️|Sport",K+SPORT 2 HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -859,7 +859,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="Sport", K+KIDS HD
+#EXTINF:-1 tvg-id="kkidshd" group-title="⚽️|Sport", K+KIDS HD
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
