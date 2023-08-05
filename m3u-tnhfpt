@@ -970,13 +970,13 @@ http://stream.cvmtv.site/FS1?token=live
 
 
 
-#EXTINF:-1 tvg-id="quochoi" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD
+#EXTINF:-1 tvg-id="quochoi" group-title="📻| World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD
 http://live.anttv.xyz/antmedia/quochoi
-#EXTINF:-1 tvg-id="quochoi" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD Sv2
+#EXTINF:-1 tvg-id="quochoi" group-title="📻| World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD Sv2
 http://128.199.214.24/QHTV/mpegts
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/27.png", ON Football HD 
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="📻| World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/27.png", ON Football HD 
 http://live.anttv.xyz/antmedia/onfootball
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/29.png", ON Sports News HD 
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="📻| World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/29.png", ON Sports News HD 
 http://128.199.214.24/OSN/mpegts
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/62.png", HTV Thể Thao Sv2
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="📻| World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/62.png", HTV Thể Thao Sv2
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
