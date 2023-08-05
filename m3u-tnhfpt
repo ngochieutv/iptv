@@ -739,91 +739,79 @@ https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY5tqZpWlmcKZnaKZm6udlZxlXmFuaA==&time=1691083366&mytv&id=kcine
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY5tqZpWlmcKZnaKZm6udlZxlXmFuaA==&time=1691083366&mytv&id=klife
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY5tqZpWlmcKZnaKZm6udlZxlXmFuaA==&time=1691083366&mytv&id=ksport1
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY5tqZpWlmcKZnaKZm6udlZxlXmFuaA==&time=1691083366&mytv&id=ksport2
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
 
-#EXTINF:-1 group-title="Sport" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
 http://stream.cvmtv.site/ZiggoS?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport Voetbal
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport Voetbal
 http://stream.cvmtv.site/ZiggoV?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="ztennis" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tennis.png",Ziggo Sport Tennis
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="ztennis" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tennis.png",Ziggo Sport Tennis
 #http://stream.cvmtv.site/ZiggoT?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="zgolf" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/golf.png",Ziggo Sport Golf
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="zgolf" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/golf.png",Ziggo Sport Golf
 http://stream.cvmtv.site/ZiggoG?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="zracing" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/racing.png",Ziggo Sport Racing
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="zracing" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/racing.png",Ziggo Sport Racing
 #http://stream.cvmtv.site/ZiggoR?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="zdocu" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/docu.png",Ziggo Sport Docu
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="zdocu" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/docu.png",Ziggo Sport Docu
 #http://stream.cvmtv.site/ZiggoD?token=live
 
-#EXTINF:-1 group-title="Sport" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
 http://stream.cvmtv.site/canal2?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
 http://stream.cvmtv.site/canalpre?token=live
 
-#EXTINF:-1 group-title="Sport" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
 http://stream.cvmtv.site/E1?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
 http://stream.cvmtv.site/E2?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
 http://stream.cvmtv.site/E3?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
 http://stream.cvmtv.site/E4?token=live
 
-#EXTINF:-1 group-title="Sport" tvg-id="sptv1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-1.png",Sport TV 1
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="sptv1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-1.png",Sport TV 1
 http://stream.cvmtv.site/SportTV1?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="sptv2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-2.png",Sport TV 2
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="sptv2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-2.png",Sport TV 2
 http://stream.cvmtv.site/SportTV2?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="sptv3" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-3.png",Sport TV 3
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="sptv3" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-3.png",Sport TV 3
 http://stream.cvmtv.site/SportTV3?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="sptv4" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-4.png",Sport TV 4
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="sptv4" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-4.png",Sport TV 4
 http://stream.cvmtv.site/SportTV4?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="sptv5" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-5.png",Sport TV 5
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="sptv5" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-5.png",Sport TV 5
 http://stream.cvmtv.site/SportTV5?token=live
 
-#EXTINF:-1 group-title="Sport" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
 http://stream.cvmtv.site/Match?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
 http://stream.cvmtv.site/MF1?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
 http://stream.cvmtv.site/MF2?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
 http://stream.cvmtv.site/MF3?token=live
 
-#EXTINF:-1 group-title="Sport" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
 http://stream.cvmtv.site/Polsat?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
 http://stream.cvmtv.site/PolsatE?token=live
-#EXTINF:-1 group-title="Sport" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
 http://stream.cvmtv.site/PolsatN?token=live
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/768px-Polsat_Sport_Premium_1_2021_gradient.svg.png",Polsat Sport Premium 1
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polsat_Sport_Premium_2_2021_gradient.svg/768px-Polsat_Sport_Premium_2_2021_gradient.svg.png",Polsat Sport Premium 2
-
-#EXTINF:-1 group-title="Sport" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
+#EXTINF:-1 group-title="⚽️| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/768px-Polsat_Sport_Premium_1_2021_gradient.svg.png",Polsat Sport Premium 1
+#EXTINF:-1 group-title="⚽️| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polsat_Sport_Premium_2_2021_gradient.svg/768px-Polsat_Sport_Premium_2_2021_gradient.svg.png",Polsat Sport Premium 2
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
 http://stream.cvmtv.site/TVPS?token=live
+
+
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="espnmx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/768px-ESPN_wordmark.svg.png",ESPN
+http://stream.cvmtv.site/ESPN?token=live
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="espn2mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/768px-ESPN2_logo.svg.png",ESPN2
+http://stream.cvmtv.site/ESPN2?token=live
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="espn3mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/768px-ESPN3_logo.svg.png",ESPN3
+http://stream.cvmtv.site/ESPN3?token=live
+#EXTINF:-1 group-title="⚽️| Sport" tvg-id="espnextra" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/espn_extra.png",ESPN Extra
+http://stream.cvmtv.site/ESPNE?token=live
 
 
 
@@ -835,7 +823,7 @@ http://stream.cvmtv.site/TVPS?token=live
 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="⚽️|Sport" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD
+#EXTINF:-1 tvg-id="klifehd" group-title="⚽️| Sport" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -843,7 +831,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="⚽️|Sport", K+SPORT 1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="⚽️| Sport", K+SPORT 1 HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -851,7 +839,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="⚽️|Sport",K+SPORT 2 HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="⚽️| Sport",K+SPORT 2 HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -859,7 +847,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="⚽️|Sport", K+KIDS HD
+#EXTINF:-1 tvg-id="kkidshd" group-title="⚽️| Sport", K+KIDS HD
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
