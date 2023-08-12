@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" 
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 
+#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png",VTV1 
 udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 
 udp://@225.1.2.13:30120
@@ -951,7 +951,7 @@ http://stream.cvmtv.site/FS1?token=live
 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ Channel" tvg-logo="https://i.imgur.com/t0KBs7O.png", K+ Life HD
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ Channel" tvg-logo="https://i.imgur.com/ZvuZQPr.jpg", K+ Life HD
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
