@@ -810,6 +810,20 @@ http://stream.cvmtv.site/ESPN3?token=live
 #EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-id="espnextra" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/espn_extra.png",ESPN Extra
 http://stream.cvmtv.site/ESPNE?token=live
 
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",EPL LIVE 4K
+http://stream.cvmtv.site/event?token=live
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-id="digi1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
+http://stream.cvmtv.site/DigiS1?token=live
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-id="digi2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png",Digi Sport 2
+http://stream.cvmtv.site/DigiS2?token=live
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
+http://stream.cvmtv.site/TPF2?token=live
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
+http://stream.cvmtv.site/Setanta?token=live
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
+http://stream.cvmtv.site/USA?token=live
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
+http://stream.cvmtv.site/SCTV?token=live
 
 
 
@@ -924,31 +938,68 @@ http://stream.cvmtv.site/FS1?token=live
 
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6JnY5WonMKZnaKZm6udlZxlXmFuaA==&time=1691750399&mykplus&id=kcine
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X+2Q/EpS4HhXssZ3DW7Rqw","kid":"vlSlc21yotKzSnQRirJZxQ"},{"kty":"oct","k":"3CgJrpuqMZh2VxPk//BPUA","kid":"Bpilc21yotKzSnQRirJZxQ"},{"kty":"oct","k":"VgrUg4J4XahsFeBMOh7ZlA","kid":"E5zppG1yotKzSnQRirJZxQ"},{"kty":"oct","k":"MOPM3N0uBHYR6Ry9jsCevg","kid":"/6npvLxyotKzSnQRirJZxQ"}],"type":"temporary"}   
+
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6JnY5WonMKZnaKZm6udlZxlXmFuaA==&time=1691750399&mykplus&id=klife
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JTdbPM2Q+78VC8HXw094gQ","kid":"8nLAogWX/AaqhyOkH6wsqw"},{"kty":"oct","k":"lXaeSJwb1DUliuRvYn2LEA","kid":"OrbAogWX/AaqhyOkH6wsqw"},{"kty":"oct","k":"iAJeoeo5+q+RYfL/zASmLA","kid":"R7oE0wWX/AaqhyOkH6wsqw"},{"kty":"oct","k":"8U5h0+HaY3+9Ljqfp8dLdg","kid":"M8cE61SX/AaqhyOkH6wsqw"}],"type":"temporary"}  
+
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT 1 HD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6JnY5WonMKZnaKZm6udlZxlXmFuaA==&time=1691750399&mykplus&id=ksport1
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7tJeCwn0Tg2O/VKCz06xkg","kid":"KshlUQDGkb+FXyWpZqIZng"},{"kty":"oct","k":"GRN3e2D2bvL0FTCm3SaXlQ","kid":"cgxlUQDGkb+FXyWpZqIZng"},{"kty":"oct","k":"TEIHBKNOyEsR9wMgTYXTNw","kid":"fxCpggDGkb+FXyWpZqIZng"},{"kty":"oct","k":"2RtEqQhJeqA5NDBg6xyRaQ","kid":"ax2pmk/Gkb+FXyWpZqIZng"}],"type":"temporary"}  
+
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT 2 HD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6JnY5WonMKZnaKZm6udlZxlXmFuaA==&time=1691750399&mykplus&id=ksport2
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sS7SoTVO5JsDCtQUYeYC7g","kid":"Rc7L2yqNSHtaePqPKkwtqQ"},{"kty":"oct","k":"15cpQr621RwuL9ocFWU/Rw","kid":"jRLL2yqNSHtaePqPKkwtqQ"},{"kty":"oct","k":"9HI94BIkgpkGryPizPavsQ","kid":"mhYPDCqNSHtaePqPKkwtqQ"},{"kty":"oct","k":"9fnHQzlIxQ6MxmooRojMuw","kid":"hiMPJHmNSHtaePqPKkwtqQ"}],"type":"temporary"}  
+
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6JnY5WonMKZnaKZm6udlZxlXmFuaA==&time=1691750399&mykplus&id=kkids
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQaRokrhVv81ZBtFzurdfQ","kid":"OeXislxQgjvPvnREqq7IoA"},{"kty":"oct","k":"hGYEMg1nHbNQXA1ltZUs5Q","kid":"gSnislxQgjvPvnREqq7IoA"},{"kty":"oct","k":"lyrQwpQ5QaQY327SQA7vUw","kid":"ji0m41xQgjvPvnREqq7IoA"},{"kty":"oct","k":"H2kfCLBu5w7rplZpmXIkFQ","kid":"ejom+6tQgjvPvnREqq7IoA"}],"type":"temporary"}  
+
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+
+
 
 
 #EXTINF:-1 tvg-id="quochoi" group-title="📻| World Cup 2023" group-logo="https://logo.anttv.xyz/group/WC.png" tvg-logo="https://logo.anttv.xyz/107.png", Quốc Hội HD
