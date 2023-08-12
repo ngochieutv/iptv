@@ -951,7 +951,7 @@ http://stream.cvmtv.site/FS1?token=live
 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ Channel" tvg-logo="https://i.imgur.com/t0KBs7O.png", K+ Life HD
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
