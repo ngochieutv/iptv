@@ -943,7 +943,7 @@ http://stream.cvmtv.site/FS1?token=live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZJ5pZZSmk8KZnaKZm6udlZxlXmFuaA==&time=1692372270&mykplus&id=kcine
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ Channel" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZJ5pZZSmk8KZnaKZm6udlZxlXmFuaA==&time=1692372270&mykplus&id=klife
