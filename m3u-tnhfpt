@@ -733,14 +733,6 @@ http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_108
 
 
 
-#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
-http://stream.cvmtv.site/Setanta?token=live
-#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
-http://stream.cvmtv.site/USA?token=live
-#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
-http://stream.cvmtv.site/SCTV?token=live
-
-
 #EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
 http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport Voetbal
@@ -814,8 +806,22 @@ http://stream.cvmtv.site/TPF2?token=live
 http://stream.cvmtv.site/Setanta?token=live
 #EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
 http://stream.cvmtv.site/USA?token=live
-#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
-http://stream.cvmtv.site/SCTV?token=live
+
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-id="prima1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 1
+http://stream.cvmtv.site/PRS1?token=live
+#EXTINF:-1 group-title="⚽️| CvmediaTV"tvg-id="prima2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima2.png",Prima Sport 2
+http://stream.cvmtv.site/PRS2?token=live
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-id="prima3" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 3
+http://stream.cvmtv.site/PRS3?token=live
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-id="prima1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 4
+http://stream.cvmtv.site/ORS4?token=live
+
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
+http://stream.cvmtv.site/StarSL1?token=live
+#EXTINF:-1 group-title="⚽️| CvmediaTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
+http://stream.cvmtv.site/StarSL2?token=live
+
+
 
 
 
