@@ -274,6 +274,32 @@ udp://@225.1.4.166:30120
 udp://@225.1.1.39:30120
 
 
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+udp://@225.1.1.112:30120
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+udp://@225.1.2.86:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",CARTOON NETWORK 
+udp://@225.1.2.231:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Cartoonito 
+udp://@225.1.1.138:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Cinema World 
+udp://@225.1.1.142:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",CINEMAX 
+udp://@225.1.2.86:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",WBTV 
+udp://@225.1.1.139:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Animal Planet 
+udp://@225.1.4.209:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Animax HD 
+udp://@225.1.4.168:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Baby TV 
+udp://@225.1.2.146:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",BBC CbeeBies 
+udp://@225.1.1.134:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Discovery Asia 
+udp://@225.1.2.223:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Discovery Channel 
+udp://@225.1.1.238:30120
 #-*--VTVCAB-*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",  VTVcab 1 - Vie Giải trí HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -427,10 +453,6 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="hbohd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
-udp://@225.1.1.112:30120
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-udp://@225.1.2.86:30120
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -925,8 +947,11 @@ http://stream.cvmtv.site/One31?token=live
 http://stream.cvmtv.site/FS1?token=live
 
 
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png", Sky Sport F1
+#EXTINF:-1 group-title="🌏| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png", Sky Sport F1
 http://sansat.net:25461/live/safet123/XXVSCK7Y4VG9F3T/193096.ts
+
+
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE - MyK+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cLSvrxYOhiRBMq/VpBK/HA","kid":"t/tobmSK35aYiNco87wo2A"},{"kty":"oct","k":"Lv0tpOyVs3mvUNVevRj7jA","kid":"/z9obmSK35aYiNco87wo2A"},{"kty":"oct","k":"TDaHuDf+JWPFJ/V27Vad7w","kid":"DEOsn2SK35aYiNco87wo2A"},{"kty":"oct","k":"bw+FfkR1tMd+vrVjFL9YWQ","kid":"+FCst7OK35aYiNco87wo2A"}],"type":"temporary"}
@@ -949,4 +974,3 @@ https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9kwcwTecPHnuCJK1JrZvKA","kid":"mIuqBS+qAonbATIavAH4ug"},{"kty":"oct","k":"TCwyx3yQouPntsn7ZiPrgg","kid":"4M+qBS+qAonbATIavAH4ug"},{"kty":"oct","k":"gi1p/srXkf3XStzMUxIExw","kid":"7dPuNi+qAonbATIavAH4ug"},{"kty":"oct","k":"eDSx/EVmJPe14BjWYMD3xQ","kid":"2eDuTn6qAonbATIavAH4ug"}],"type":"temporary"}
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
-
