@@ -23,37 +23,7 @@ udp://@225.1.2.236:30120
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://i.imgur.com/JDN8GJC.png",VTV5 Tây Nguyên 
 udp://@225.1.1.108:30120
 
-#-------------------VTC/VOV-------------------#
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD 
-udp://@225.1.2.254:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD 
-udp://@225.1.2.251:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD 
-udp://@225.1.2.200:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD 
-udp://@225.1.2.195:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 HD 
-udp://@225.1.2.194:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD 
-udp://@225.1.2.250:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD 
-udp://@225.1.2.88:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD 
-udp://@225.1.2.190:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
-udp://@225.1.2.202:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5
-udp://@225.1.2.199:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6
-udp://@225.1.2.198:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7
-udp://@225.1.2.197:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8
-udp://@225.1.2.196:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11
-udp://@225.1.2.193:30120
-#EXTINF:-1 group-title="💙| VTC" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12
-udp://@225.1.2.51:30120
+
 
 
 #-------------------HTV/HTVC-------------------#
